@@ -1,1 +1,3 @@
-## Learn ML Engineering in a practical way. Great content is about to come. Stay tuned!!
+## Want to learn image classification??
+
+Take a look at how to identify the intensity of Alzheimer's disease through the brain MRI scan.
