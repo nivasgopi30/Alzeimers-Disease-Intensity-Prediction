@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "alzeimers disease classification"
+version = "0.1.0"
+description = ""
+authors = ["Nivas Gopi Marella"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.9.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
